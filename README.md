@@ -7,3 +7,4 @@ This code is designed for data collection using the Infineon-BGT60TR13C Radar. W
 3. Install the `ifxAvian` library from the folder where Infineon is installed, for example: `C:\Infineon\Tools\Radar Development Kit\3.4.0.202304250920\assets\software\radar_sdk\radar_sdk\sdk\py\wrapper_avian\src`. You can find the `ifxAvian` folder and install it using the following command: `pip install ifxAvian`.
 4. Note: Make sure to use the firmware version: `RadarBaseboardMCU7_v2.5.12` and do not change the firmware.
 5. Run the program `data-collect.py`.
+6. The output of the data is in the form of a CSV file
